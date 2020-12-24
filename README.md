@@ -36,4 +36,4 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
 	- Navigate to our people page: [PHP-DC](https://github.com/orgs/PHP-DC/people)
 	
 ## Socials
-- We will Keep in update this soon! 
+- Join our [Discord Server](https://discord.gg/pvC5MF6THy)
